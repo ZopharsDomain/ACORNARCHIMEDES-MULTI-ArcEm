@@ -1,0 +1,12 @@
+armsuppmov.s
+armsuppmovs.s
+armsuppmvn.s
+armsuppmvns.s
+ROM*
+*,ff8
+HardImage?
+FloppyImage?
+hexcmos*
+arcem*
+cygwin1.dll
+index.html
